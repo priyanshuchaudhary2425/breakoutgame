@@ -25,8 +25,3 @@ python main.py
 ```
 
 Have fun playing! 🕹️
-
-```
-
-If you want, I can also **add a “Controls” section and optional screenshot placeholder** to make it look more professional for GitHub. Do you want me to do that?
-```
