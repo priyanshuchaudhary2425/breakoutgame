@@ -1,6 +1,4 @@
-Here’s the completed README with your instruction added and polished:
 
-````markdown
 # Breakout Game 🎮
 
 Let's play a classic **Breakout Game**!  
